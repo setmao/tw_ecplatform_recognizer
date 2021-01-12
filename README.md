@@ -17,3 +17,5 @@
 - WOOCOMMERCE
 - Shopify
 - ShopStore
+- 1shop
+- Hotzbuy
